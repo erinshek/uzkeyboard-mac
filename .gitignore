@@ -1,0 +1,6 @@
+*.keylayout
+*.bundle/
+*.icns
+*.iconset/
+*.zip
+EXAMPLE.md
